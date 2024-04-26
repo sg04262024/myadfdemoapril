@@ -1,0 +1,15 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "blobtoblob0426"
+		},
+		"AzureBlobStoragesource_connectionString": {
+			"value": ""
+		},
+		"AzureBlobStoragetarget_connectionString": {
+			"value": ""
+		}
+	}
+}
