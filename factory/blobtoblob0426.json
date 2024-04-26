@@ -1,0 +1,9 @@
+{
+	"name": "blobtoblob0426",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0dbf59fd-bab4-48a2-a940-b856bd988aa8",
+		"tenantId": "d7720e47-a110-4d15-9059-e88bd96646f9"
+	}
+}
